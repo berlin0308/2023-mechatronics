@@ -1,4 +1,4 @@
-int ledPin1 = 2; // 第一個LED接腳
+int ledPin1 = 7; // 第一個LED接腳
 int ledPin2 = 13; // 第二個LED接腳
 
 int const trigPin = 13;
@@ -43,6 +43,7 @@ void loop() {
     switch (command) {
       case '1':
         digitalWrite(ledPin1, HIGH); // 打開第一個LED
+        delay(3000);
         break;
       case '2':
         digitalWrite(ledPin1, LOW); // 關閉第一個LED
