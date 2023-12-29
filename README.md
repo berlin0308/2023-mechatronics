@@ -1,3 +1,7 @@
+
+<img width="698" alt="image" src="https://github.com/berlin0308/2023-mechatronics/assets/90204339/a6274634-1316-4b4e-9891-f1a7e449b465">
+
+
 # I. Introduction
 
 Our robot is designed to be controlled remotely through video streaming. Its primary functions include navigating around and performing vacuuming tasks. Our core philosophy is to minimize space to enhance the robot's agility. In addition, careful study and design of the vacuum is essential to ensure sufficient cleaning efficiency. 
